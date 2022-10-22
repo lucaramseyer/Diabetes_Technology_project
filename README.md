@@ -18,3 +18,4 @@ ToDo:
   Add learining rate plot to our code
   Determine memory requirements of pretrained model
   Activation maps!!
+  Automatically save performance scores of our cnn to file!
