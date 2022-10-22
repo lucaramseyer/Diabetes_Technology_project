@@ -6,6 +6,8 @@ Open Questions:
   The pretrained model doesn't seem to have huge memory requirements whereas our model quickly needs lots of memory. Should we try to minimize the memory requiremets of our cnn?
   HPO?
   Does a bigger batch size always mean better performance?
+  Is the train loss the mean loss over all batches in an epoch?
+  Why exactly do we need a validation set? can't we just use the training set?
   
 
 
