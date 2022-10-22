@@ -16,3 +16,4 @@ ToDo:
   Evaluate performance of pretrained model
   Add learining rate plot to our code
   Determine memory requirements of pretrained model
+  Activation maps!!
