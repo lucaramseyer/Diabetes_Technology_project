@@ -8,6 +8,7 @@ Open Questions:
   Does a bigger batch size always mean better performance?
   Is the train loss the mean loss over all batches in an epoch?
   Why exactly do we need a validation set? can't we just use the training set?
+  What are the channels in the layers of our cnn?
   
 
 
