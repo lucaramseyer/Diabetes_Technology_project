@@ -19,3 +19,4 @@ ToDo:
   Determine memory requirements of pretrained model
   Activation maps!!
   Automatically save performance scores of our cnn to file!
+  Find out more about the Conv2d and MaxPool functions from the torch library. What are these exactly? What kind of convolution kernel is used?
