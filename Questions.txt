@@ -1,0 +1,22 @@
+Open Questions:
+  Can we simply calculate the memory reqirement of our model based on the layers?
+  Sould we use different pretrained models? (we used RESnet50 so far)
+  The pretrained model doesn't seem to have huge memory requirements whereas our model quickly needs lots of memory. Should we try to minimize the memory requiremets of our cnn?
+  HPO?
+  Does a bigger batch size always mean better performance?
+  Is the train loss the mean loss over all batches/steps in an epoch?
+  Why exactly do we need a validation set? can't we just use the training set?
+  What are the channels in the layers of our cnn? Are they the features i.e. the different filter kernels? And if so, how can we control them?
+  Discuss cam. Make a good sketch!!
+  Should we shrink our image size before feeding it to our cnn?
+  
+
+
+ToDo:
+  Add classifier layer to pretrained model
+  Evaluate performance of pretrained model
+  Add learining rate plot to our code
+  Determine memory requirements of pretrained model
+  Activation maps!!
+  Automatically save performance scores of our cnn to file!
+  Find out more about the Conv2d and MaxPool functions from the torch library. What are these exactly? What kind of convolution kernel is used?
