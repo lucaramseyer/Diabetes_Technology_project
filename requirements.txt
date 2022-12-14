@@ -1,1 +1,5 @@
+required libraries:
+
+torch
+torchvision
 
