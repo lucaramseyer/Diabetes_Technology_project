@@ -1,5 +1,13 @@
 required libraries:
-
 torch
 torchvision
+numpy
+os
+mathplotlib
+importlib
+pandas
+cv2
+time
+copy
+math
 
